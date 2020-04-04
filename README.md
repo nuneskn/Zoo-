@@ -36,22 +36,21 @@
     <p><u>Things you need</u></p>
     <li> Linux Machine </li>
     <li> Terminal </li>
-
-     <p font-weight : bold;><u>Installation: Step 1</u></p>
-     <li> Copy and paste "/u/css/nuneskn/2440/Lab06/src/solution" into your command
-     <li> Type in "java Zoo"
+</ul>
+     <p><u>Installation: Step 1</u></p>
+     <li> Copy and paste "/u/css/nuneskn/2440/Lab06/src/solution" into your command </li>
+     <li> Type in "java Zoo" </li>
      <pre> Note: Do not include quotations when inputting commands!</pre>
 </ul>
 
 <h2> Usage </h2>
 
 <ul>
-
-    <p font-weight : bold;><u>Step 1:</u>
+    <p><u>Step 1:</u></p>
     <li> You will be asked to enter a type of animal in the given list. </li>
     <li> Type in the animal you want and press ENTER. </li>
-
-    <p font-weight : boldl><u>Step 2:</u>
+</ul>
+    <p><u>Step 2:</u></p>
     <li> You will be asked to enter a name for the animal.</li>
     <li> Type in the name you want and press ENTER. </li>
 </ul>
