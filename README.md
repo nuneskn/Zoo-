@@ -50,6 +50,8 @@
     <li> You will be asked to enter a type of animal in the given list. </li>
     <li> Type in the animal you want and press ENTER. </li>
 </ul>
+
+<ul>
     <p><u>Step 2:</u></p>
     <li> You will be asked to enter a name for the animal.</li>
     <li> Type in the name you want and press ENTER. </li>
@@ -60,7 +62,7 @@
 <ul>
     <li> Make sure you type in an animal that is in the list given!.</li>
     <li> Don't add quotations to any of the commands.</li>
-    <li> If you are finished adding animals, enter 0 when prompted about animal typ
+    <li> If you are finished adding animals, enter 0 when prompted about animal type
 </ul>
 
 <h2> Troubleshooting </h2>
