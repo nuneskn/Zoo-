@@ -19,7 +19,7 @@
 <h2> Introduction </h2>
 
 <p>Welcome to your own Zoo!</p>
-<p>The Github page can be found <a href = "https://github.com/nuneskn/Zoo-">here</a
+<p>The Github page can be found <a href = "https://github.com/nuneskn/Zoo-">here</a>
 
 
 <h2> Features </h2>
@@ -33,7 +33,7 @@
 <h2> Installation </h2>
 
 <ul>
-    <p font-weight : bold;><u>Things you need</u></p>
+    <p><u>Things you need</u></p>
     <li> Linux Machine </li>
     <li> Terminal </li>
 
