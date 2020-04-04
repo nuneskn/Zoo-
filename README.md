@@ -1,13 +1,22 @@
-# Table of Contents
+<!DOCCTYPE html>
+<html>
+<head>
+<title>Create your own Zoo!</title>
+</head>
+<body>
 
-1.[Introduction]
-2.[Features]
-3.[Installation]
-4.[Usage]
-5.[Notes]
-6.[Troubleshooting]
-7.[Contribution]
-8.[Support]
-10.[License]
-<br>
-<br>
+<h1>How do I create my own Zoo?</h1>
+
+
+
+
+<h2>Table of Contents</h2>
+<ol>
+    <li> Introduction </li>
+    <li> Features </li>
+    <li> Installation </li>
+    <li> Usage </li>
+    <li> Notes </li>
+    <li> Troubleshooting </li>
+    <li> Support </li>
+    <li> License </li>
