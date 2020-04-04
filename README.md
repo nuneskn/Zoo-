@@ -37,6 +37,8 @@
     <li> Linux Machine </li>
     <li> Terminal </li>
 </ul>
+
+<ul>
      <p><u>Installation: Step 1</u></p>
      <li> Copy and paste "/u/css/nuneskn/2440/Lab06/src/solution" into your command </li>
      <li> Type in "java Zoo" </li>
